@@ -5,6 +5,4 @@ Dataset: [Sales Conversion Optimization on Kaggle](https://www.kaggle.com/loveal
 
 In this project I explore the Facebook ad campaign data for an anonymous company XYZ. 
 
-## Key Insights
-*
 
